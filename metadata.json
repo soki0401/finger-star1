@@ -1,0 +1,8 @@
+{
+  "name": "指尖星語 (Finger star)",
+  "description": "一個結合紫微斗數命理、故事與性格測驗的沉浸式網站。透過導引，探索你的命宮主星與宿命故事。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
