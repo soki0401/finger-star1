@@ -51,7 +51,7 @@ const Layout: React.FC<LayoutProps> = ({ currentView, onViewChange, children }) 
       </main>
 
       <footer className="bg-black/80 border-t border-purple-900/20 py-10 px-6 text-center">
-        <p className="text-gray-500 text-sm serif tracking-[0.2em]">© 指尖星語 finger star. 尋找屬於你我的命定之星.</p>
+        <p className="text-gray-500 text-sm serif tracking-[0.2em]">© 指尖星語 finger star.</p>
       </footer>
     </div>
   );

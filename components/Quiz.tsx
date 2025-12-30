@@ -51,7 +51,7 @@ const Quiz: React.FC = () => {
         <h1 className="text-5xl md:text-7xl serif font-bold text-white mb-8 text-glow">命格感應</h1>
         <div className="bg-purple-900/10 border border-purple-900/40 p-12 md:p-20 rounded-[50px] shadow-2xl">
           <p className="text-xl text-gray-300 mb-12 leading-relaxed serif">
-            每個靈魂都對應著一顆遙遠的主星。透過本測驗，讓我們與妳潛意識的頻率產生共鳴，找出那顆一直在背後默默守護妳的星君。
+            每個靈魂都對應著一顆遙遠的主星。透過本測驗，讓我們與你潛意識的頻率產生共鳴，找出那顆一直在背後默默守護星君。
           </p>
           <button 
             onClick={startQuiz}
