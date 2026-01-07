@@ -171,11 +171,8 @@ const Story: React.FC = () => {
   return (
     <div className="max-w-4xl mx-auto py-24 px-6 text-center animate-fadeIn">
       <div className="mb-10">
-        <span className="text-purple-500 text-sm tracking-[0.5em] uppercase font-bold">THE DESTINY REVEALED</span>
+        <span className="text-purple-500 text-sm tracking-[0.4em] uppercase font-bold">THE DESTINY REVEALED</span>
         <h1 className="text-6xl md:text-8xl serif font-bold text-white mt-6 text-glow">{finalEnding?.name}</h1>
-        <div className="mt-6 px-6 py-2 bg-purple-900/30 border border-purple-500/20 rounded-full inline-block text-purple-300 text-sm font-bold tracking-widest uppercase">
-          {finalEnding?.type}
-        </div>
       </div>
 
       <div className="bg-black/60 border border-purple-500/20 p-10 md:p-16 rounded-[40px] shadow-2xl relative text-left mb-16">

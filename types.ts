@@ -35,7 +35,6 @@ export interface StoryQuestion {
 export interface StoryEnding {
   id: number;
   name: string;
-  type: string;
   description: string;
   meaning: string;
 }
